@@ -4,10 +4,6 @@
 
 
 
-https://github.com/user-attachments/assets/f13fc5fc-bb13-4f33-b7ec-997f718ff6c7
-
-
-
 <!--
 **zmno84/zmno84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
