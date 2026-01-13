@@ -20,6 +20,3 @@ Here are some ideas to get you started:
 -->
 
 ☆: .｡. o(≧▽≦)o .｡.:*☆
-
-- ###### Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
